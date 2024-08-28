@@ -1,0 +1,5 @@
+com/sts/ejb_stateless/test/HelloBeanLocal.class
+com/sts/ejb_stateless/resources/JakartaEE8Resource.class
+com/sts/ejb_stateless/test/HelloBean.class
+com/sts/ejb_stateless/test/HelloServlet.class
+com/sts/ejb_stateless/JakartaRestConfiguration.class
